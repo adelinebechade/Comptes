@@ -1,1 +1,0 @@
-<h2><?php echo "La page que vous avez demandée est sécurisée et vous n'avez pas les droits nécessaires." ?></h2>
