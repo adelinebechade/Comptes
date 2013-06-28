@@ -1,3 +1,7 @@
+.buidpath
+.project
+symfony
+.settings/*
 cache/*
 log/*
 web/uploads/*
