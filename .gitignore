@@ -18,3 +18,4 @@ lib/model/om/*
 lib/model/map/*
 web/*Plugin/*
 /nbproject/
+/nbproject/private
